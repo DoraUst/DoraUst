@@ -9,4 +9,5 @@ Today, I continue to learn programming on my own, and I hope to become a good de
 ### 🛠️ Tech Stack & Learning Path
 ![Skills](https://skills.syvixor.com/api/icons?i=python,javascript,html,css3,react,pandas,flask,django,bootstrap)
 
-📫 You can contact me at teodoras.stan@gmail.com
+- See my portfolio at [doraust.github.io](https://doraust.github.io/)
+- 📫 You can contact me at teodoras.stan@gmail.com
